@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Data Engineer specialised in ETL at Civica India<br>👯 I’m looking to up-skill and collaborate with people having similar interests.<br>🤝 I’m looking for help with passionate projects that I can help with.<br>🌱 I’m currently learning metadata driven pipelines and json based logics.<br>
+🔭 I’m currently working as a Data Engineer specialised in ETL at Civica India.<br>👯 I’m looking to up-skill and collaborate with people having similar interests.<br>🤝 I’m looking for help with passionate projects revolving around data.<br>🌱 I’m currently learning metadata driven pipelines and json based logics.<br>
 
 
 ## 🌐 Socials:
